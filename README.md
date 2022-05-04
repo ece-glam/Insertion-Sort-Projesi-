@@ -7,7 +7,7 @@ Proje1
  min value =2, change 2 and 22 -> [2, | 27, 16, 22, 18, 6]
  min=6, change 27 and 6 -> [2, 6, | 16, 22, 18, 27]
  min=16, no need to change -> [2, 6, 16, | 22, 18, 27]
- min=18, change 18 and 22 -> [2, 6 16 18 ,22, 27]
+ min=18, change 18 and 22 -> [2, 6, 16, 18 ,22, 27]
 ```
 2.	Big-O gösterimini yazınız.<br />
 ```
